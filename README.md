@@ -15,7 +15,7 @@ python -m http.server 8000
 - `index.html`: apresentação, serviços contábeis, Notarial/Registral, história e contato.
 - `styles.css`: tema claro em branco e marfim, azul-marinho e detalhes dourados, tipografia editorial e layout responsivo.
 - `script.js`: navegação móvel e preparação da mensagem de contato.
-- `assets/`: marca e fotografias do site original, armazenadas localmente e otimizadas para web.
+- `assets/`: marca original e novas fotografias ilustrativas do Pexels, armazenadas localmente em WebP com versões de 640 e 1200 pixels. Veja autoria, fontes e licença em [Créditos das imagens](CREDITOS-IMAGENS.md).
 
 As páginas Informativo e Área do Cliente foram removidas a pedido do responsável, assim como seus acessos no menu. Os textos de história, a descrição e a lista de serviços contábeis e a apresentação do departamento Notarial/Registral foram preservados do site https://guipgd.wixsite.com/contabilidade, consultado em 06/11/2026. Os títulos e textos de apoio foram reformulados para a nova apresentação. As datas da história e o copyright original foram mantidos.
 

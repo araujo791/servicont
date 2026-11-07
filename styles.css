@@ -54,7 +54,7 @@ nav a:hover { color: var(--gold); }
 .hero-signature p span { color: var(--muted); font-size: 10px; }
 .hero-visual { position: relative; padding: 0 15px 45px 0; margin-left: 15px; }
 .image-frame { position: relative; height: 530px; border-radius: 160px 3px 3px 3px; overflow: hidden; background: #e6dfd0; }
-.image-frame img { width: 100%; height: 100%; object-fit: cover; object-position: 52% center; }
+.image-frame img { width: 100%; height: 100%; object-fit: cover; object-position: 50% 78%; }
 .image-frame::after { content: ''; position: absolute; inset: 0; background: linear-gradient(0deg,#102e4730,transparent 40%); pointer-events: none; }
 .image-corner { position: absolute; bottom: 23px; right: 27px; color: white; font-size: 11px; letter-spacing: .15em; z-index: 1; }
 .image-note { display: flex; align-items: center; gap: 20px; position: absolute; bottom: 10px; left: -35px; background: white; padding: 24px 30px; border: 1px solid #e9e6de; box-shadow: 0 14px 40px #102e4708; }
@@ -73,7 +73,7 @@ nav a:hover { color: var(--gold); }
 .outline-icon { display: block; width: 42px; height: 42px; color: var(--gold); margin-bottom: 20px; }
 .service-overview h3 { font-family: var(--serif); font-size: 32px; margin-bottom: 15px; }
 .service-overview p { font-size: 14px; color: var(--muted); margin-bottom: 18px; }
-.service-overview img { margin-top: 30px; width: 100%; height: 190px; object-fit: cover; object-position: center; }
+.service-overview img { margin-top: 30px; width: 100%; height: 230px; object-fit: cover; object-position: 55% 58%; }
 .service-list { list-style: none; margin: 0; padding: 0; border-top: 1px solid var(--line); }
 .service-list li { display: grid; grid-template-columns: 26px 1fr 18px; gap: 20px; align-items: center; min-height: 90px; padding: 23px 0; border-bottom: 1px solid var(--line); }
 .service-number { color: var(--gold); font-size: 10px; align-self: start; padding-top: 5px; }
@@ -81,7 +81,7 @@ nav a:hover { color: var(--gold); }
 .service-check { color: var(--gold); font-size: 14px; }
 .notarial-section { background: #f1f2ee; position: relative; }
 .notarial-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 100px; align-items: center; }
-.notarial-visual img { width: 100%; height: 490px; object-fit: cover; object-position: 52%; border-radius: 3px 3px 120px 3px; }
+.notarial-visual img { width: 100%; height: 490px; object-fit: cover; object-position: 50% 74%; border-radius: 3px 3px 120px 3px; }
 .notarial-visual figcaption { display: flex; justify-content: space-between; font-size: 9px; letter-spacing: .15em; margin-top: 20px; color: var(--muted); }
 .notarial-copy .outline-icon { margin-bottom: 30px; width: 48px; height: 48px; }
 .notarial-text { color: var(--muted); font-size: 17px; margin-top: 28px; max-width: 395px; }
